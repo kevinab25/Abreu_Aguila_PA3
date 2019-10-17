@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="SavingsAccount" type="CLASS" />
       <mapping pattern="Calculator" type="CLASS" />
     </extensionMap>
   </component>
